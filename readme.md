@@ -3,13 +3,28 @@ Josiah's Modded Miecraft Server Pack
 Current Version: `2019.1b`
 
 ## Installation
+1. Run the Minecraft Launcher. If you don't already have it you can find it [here](https://www.minecraft.net/en-us/download/).
+1. Create and run a profile for Minecraft 1.12.2
+    1. Go to the tab `Launch Options`
+    1. Click `Add New`
+    1. Name it `1.12.2'
+    1. Change the version to `Release 1.12.2`
+    1. Save
+    1. Return to the tab `News`
+    1. Click the small up arrow by the green button, switch to the profile you created
+    1. Run it, and close minecraft once it has gotten to the menu.
 1. Download latest release
     - With git:  
         ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.1b```
     - Or download link in release section of github page
-2. Run Forge Installer Jar:  
+1. Run Forge Installer Jar:  
     ```forge-1.12.2-14.23.5.2768-installer.jar```
-3. Remove Forge Installer Jar
+1. Remove Forge Installer Jar
+    - It's in `%appdata%\.minecraft\mods`
+    - You can just press `Windows Key + R` and type `cmd` into the box. Then paste `del /f %appdata%\.minecraft\mods\forge-1.12.2-14.23.5.2768-installer.jar` into the window that opens, and press enter.
+1. Run the launcher again
+1. Create another profile, using the same steps as above, but change the name to `Forge 1.12.2` and the version to `release 1.12.2-forge1.12.2-14.23.5.2768`
+1. Run it!
 
 ## Mods
 - [Applied Energistics](https://ae-mod.info/)
