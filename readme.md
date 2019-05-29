@@ -7,7 +7,7 @@ Current Version: `2019.1b`
 1. Create and run a profile for Minecraft 1.12.2
     1. Go to the tab `Launch Options`
     1. Click `Add New`
-    1. Name it `1.12.2'
+    1. Name it `1.12.2`
     1. Change the version to `Release 1.12.2`
     1. Save
     1. Return to the tab `News`
