@@ -31,7 +31,7 @@ Current Version: `2019.1b`
 ## Mods
 - [Applied Energistics](https://ae-mod.info/)
 - [Mekanism](https://minecraft.curseforge.com/projects/mekanism)
-- [Bibliotheca](https://minecraft.curseforge.com/projects/bibliotheca)
+- [BiblioCraft](https://www.bibliocraftmod.com/)
 - [Chisel & Bits](https://minecraft.curseforge.com/projects/chisels-bits)
 - [Opencomputers](https://minecraft.curseforge.com/projects/opencomputers)
 
