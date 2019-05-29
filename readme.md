@@ -5,8 +5,8 @@ Current Version: `2019.1b`
 ## Installation
 1. Download latest release
     - With git:  
-        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods```
-    - Or download link above
+        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.1b```
+    - Or download link in release section of github page
 2. Run Forge Installer Jar:  
     ```forge-1.12.2-14.23.5.2768-installer.jar```
 3. Remove Forge Installer Jar
