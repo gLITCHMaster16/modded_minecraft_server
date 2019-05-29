@@ -1,4 +1,4 @@
-Josiah's Modded Miecraft Server Pack
+Josiah's Modded Minecraft Server Pack
 =======
 Current Version: `2019.1b`
 
@@ -16,9 +16,11 @@ Current Version: `2019.1b`
 1. Download latest release
     - With git:  
         ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.1b```
-    - Or download link in release section of github page
-1. Run Forge Installer Jar:  
+    - Or download link in release section of github page  
+    The files in the downloaded .zip archive should then be copied into the %APPDATA%/.minecraft/mods folder
+1. Run Forge Installer Jar that was placed into the mods directory:  
     ```forge-1.12.2-14.23.5.2768-installer.jar```
+    - This requires that you have the latest [java runtime](https://www.java.com/en/download/) installed.
 1. Remove Forge Installer Jar
     - It's in `%appdata%\.minecraft\mods`
     - You can just press `Windows Key + R` and type `cmd` into the box. Then paste `del /f %appdata%\.minecraft\mods\forge-1.12.2-14.23.5.2768-installer.jar` into the window that opens, and press enter.
