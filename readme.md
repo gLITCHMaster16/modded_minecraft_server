@@ -1,6 +1,10 @@
 Josiah's Modded Minecraft Server Pack
 =======
+<<<<<<< HEAD
 Current Version: `2019.2b`
+=======
+Current Version: `2019.1.1b`
+>>>>>>> 5cc6b2f039356fc64e9f29db6f2b0c7b7a281652
 
 ## Installation
 1. Run the Minecraft Launcher. If you don't already have it you can find it [here](https://www.minecraft.net/en-us/download/).
@@ -15,7 +19,7 @@ Current Version: `2019.2b`
     1. Run it, and close minecraft once it has gotten to the menu.
 1. Download latest release
     - With git:  
-        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.1b```
+        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.1.1b```
     - Or download link in release section of github page  
     The files in the downloaded .zip archive should then be copied into the %APPDATA%/.minecraft/mods folder
 1. Run Forge Installer Jar that was placed into the mods directory:  
