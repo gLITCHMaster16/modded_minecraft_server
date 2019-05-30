@@ -1,10 +1,6 @@
 Josiah's Modded Minecraft Server Pack
 =======
-<<<<<<< HEAD
 Current Version: `2019.2b`
-=======
-Current Version: `2019.1.1b`
->>>>>>> 5cc6b2f039356fc64e9f29db6f2b0c7b7a281652
 
 ## Installation
 1. Run the Minecraft Launcher. If you don't already have it you can find it [here](https://www.minecraft.net/en-us/download/).
