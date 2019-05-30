@@ -1,6 +1,6 @@
 Josiah's Modded Minecraft Server Pack
 =======
-Current Version: `2019.1b`
+Current Version: `2019.2b`
 
 ## Installation
 1. Run the Minecraft Launcher. If you don't already have it you can find it [here](https://www.minecraft.net/en-us/download/).
@@ -31,7 +31,11 @@ Current Version: `2019.1b`
 ## Mods
 - [Applied Energistics](https://ae-mod.info/)
 - [Mekanism](https://minecraft.curseforge.com/projects/mekanism)
+    - [Mekanism Tools](https://minecraft.curseforge.com/projects/mekanism-tools)
+    - [Mekanism Generators](https://minecraft.curseforge.com/projects/mekanism-generators)
 - [BiblioCraft](https://www.bibliocraftmod.com/)
 - [Chisel & Bits](https://minecraft.curseforge.com/projects/chisels-bits)
 - [Opencomputers](https://minecraft.curseforge.com/projects/opencomputers)
+- [JustEnoughItems](https://minecraft.curseforge.com/projects/jei)
+- [Optifine](https://optifine.net/home)
 
