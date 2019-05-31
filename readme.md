@@ -17,7 +17,8 @@ Josiah's Modded Minecraft Server Pack
     1. Run it, and close minecraft once it has gotten to the menu.
 1. Download latest release
     - With git:  
-        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch 2019.2.1b```
+        ```git clone https://github.com/gLITCHMaster16/modded_minecraft_server.git $HOME\AppData\Roaming\.minecraft\mods --branch <version>```  
+        Where version is the version you would like to download, most likely the server version above.
     - Or download link in release section of github page  
     The files in the downloaded .zip archive should then be copied into the %APPDATA%/.minecraft/mods folder
 1. Run Forge Installer Jar that was placed into the mods directory:  
@@ -32,7 +33,9 @@ Josiah's Modded Minecraft Server Pack
 
 ## Updating
 
-- If you used git to download the mods then you can just run `git checkout -b 2019.2.1b`.  
+- If you used git to download the mods then you can just run  
+```git checkout -b <version>```  
+Where version is the version you would like to download, most likely the server version above.
 - Otherwise you can go to the release page and either
     - Download the New Mods Zip file if you are updating from the most recent version
     - Download the Source Zip file if you are more than one version behind.
