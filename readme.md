@@ -28,6 +28,13 @@ Current Version: `2019.2.1b`
 1. Create another profile, using the same steps as above, but change the name to `Forge 1.12.2` and the version to `release 1.12.2-forge1.12.2-14.23.5.2768`
 1. Run it!
 
+## Updating
+
+- If you used git to download the mods then you can just run `git checkout -b 2019.2.1b`.  
+- Otherwise you can go to the release page and either
+    - Download the New Mods Zip file if you are updating from the most recent version
+    - Download the Source Zip file if you are more than one version behind.
+
 ## Mods
 - [Applied Energistics](https://ae-mod.info/)
 - [Mekanism](https://minecraft.curseforge.com/projects/mekanism)
