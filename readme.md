@@ -39,3 +39,4 @@ Current Version: `2019.2.1b`
 - [JustEnoughItems](https://minecraft.curseforge.com/projects/jei)
 - [Optifine](https://optifine.net/home)
 - [MC Multipart](https://minecraft.curseforge.com/projects/mcmultipart)
+- [Xaero's Minimap](https://minecraft.curseforge.com/projects/xaeros-minimap)
